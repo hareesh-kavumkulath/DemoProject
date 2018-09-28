@@ -2,6 +2,12 @@ package com.demo;
 
 import java.util.Scanner;
 
+/**
+ * The class calculates the average of entered numbers
+ * 
+ * @author h_kavumk
+ *
+ */
 public class Averager {
 
 	public static void main(String[] args) {
